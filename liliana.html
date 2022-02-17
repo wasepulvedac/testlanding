@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RegistroJquery</title>
+
+</head>
+
+<body>
+    <div class="container">
+        <form id="formulario">
+            <div>
+                <label> Nombres </label>
+                <input type="text" class="campo" id="name">
+                <div id="mensaje1" class="errores">Escribe tus nombres</div>
+                <label> Primer apellido </label>
+                <input type="text" class="campo" id="firstName">
+                <div id="mensaje2" class="errores">Escribe tu apellido paterno</div>
+                <label> Segundo apellido </label>
+                <input type="text" class="campo" id="secondName">
+                <div id="mensaje3" class="errores">Escribe tu apellido materno</div>
+            </div>
+            <br><br>
+            <div>
+                <label> Edad </label>
+                <input type="number" class="campo" id="age" min="1" max="100">
+                <div id="mensaje4" class="errores">Selecciona tu edad</div>
+            </div>
+            <br><br>
+            <div>
+                <label> Domicilio </label>
+                <input type="text" class="campo" id="address">
+                <div id="mensaje5" class="errores">Escribe tú dirección actual</div>
+            </div>
+            <br><br>
+            <div>
+                <label for="allergy">¿Es alérgico a algún medicamento?</label>
+                <select name="combo">
+                    <option value="1">Si</option>
+                    <option value="2">No</option>
+                </select>
+            </div>
+            <br><br>
+            <div>
+                <label for="remedies"> Medicamentos contraindicados </label>
+                <input type="text" name="textNombre" id="remedies">
+
+            </div>
+            <br><br><br>
+            <input type="submit" id="benviar" value="Aceptar" class="boton">
+    </div>
+    </div>
+
+    </form>
+    </div>
+
+    <!--<script src="formulariojq.js"></script>-->
+    <!--<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.3/dist/jquery.validate.min.js"></script>-->
+    <script   src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
+    <script type="text/javascript">
+        $().ready(() => {
+            console.log("ready")
+            $("#formulario").validate({
+                rules: {
+                    name: {
+                        required: true
+
+                    },
+                    firstName: {
+                        required: true
+                    },
+                    secondName: {
+                        required: true
+                    },
+                    age: {
+                        required: true,
+                    },
+                    address: {
+                        required: true
+                    }
+                }
+            })
+
+
+            $("#benviar").click(function () {
+                if ($("#formulario").valid() == false) {
+                    return;
+                }
+                let nombres = $("#name").val();
+                let papellido = $("#firstName").val();
+                let sapellido = $("#secondName").val();
+                let edad = $("#age").val();
+                let domicilio = $("#address").val();
+                console.log(nombres)
+
+            })
+        })
+    
+    </script>
+</body>
+
+</html>

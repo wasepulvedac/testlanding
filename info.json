@@ -1,0 +1,3472 @@
+[
+  {
+    "cut": "CUT (Código Único Territorial)",
+    "idRegion": null,
+    "idProvincia": null,
+    "idComuna": null,
+    "nombre": "Nombre",
+    "provincia": "Provincia",
+    "region": "Región",
+    "escudo": null
+  },
+  {
+    "cut": "15101",
+    "idRegion": 15,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Arica",
+    "provincia": "Arica",
+    "region": "Arica y Parinacota",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Arica.svg"
+  },
+  {
+    "cut": "15102",
+    "idRegion": 15,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Camarones",
+    "provincia": "Arica",
+    "region": "Arica y Parinacota",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Camarones_(Chile).svg"
+  },
+  {
+    "cut": "15201",
+    "idRegion": 15,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Putre",
+    "provincia": "Parinacota",
+    "region": "Arica y Parinacota",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Putre.svg"
+  },
+  {
+    "cut": "15202",
+    "idRegion": 15,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "General Lagos",
+    "provincia": "Parinacota",
+    "region": "Arica y Parinacota",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_General_Lagos.svg"
+  },
+  {
+    "cut": "01101",
+    "idRegion": 1,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Iquique",
+    "provincia": "Iquique",
+    "region": "Tarapacá",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Iquique.svg"
+  },
+  {
+    "cut": "01107",
+    "idRegion": 1,
+    "idProvincia": 10,
+    "idComuna": 7,
+    "nombre": "Alto Hospicio",
+    "provincia": "Iquique",
+    "region": "Tarapacá",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Alto_Hospicio.svg"
+  },
+  {
+    "cut": "01401",
+    "idRegion": 1,
+    "idProvincia": 40,
+    "idComuna": 1,
+    "nombre": "Pozo Almonte",
+    "provincia": "Tamarugal",
+    "region": "Tarapacá",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Pozo_Almonte.svg"
+  },
+  {
+    "cut": "01402",
+    "idRegion": 1,
+    "idProvincia": 40,
+    "idComuna": 2,
+    "nombre": "Camiña",
+    "provincia": "Tamarugal",
+    "region": "Tarapacá",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Cami%C3%B1a.svg"
+  },
+  {
+    "cut": "01403",
+    "idRegion": 1,
+    "idProvincia": 40,
+    "idComuna": 3,
+    "nombre": "Colchane",
+    "provincia": "Tamarugal",
+    "region": "Tarapacá",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Colchane.svg"
+  },
+  {
+    "cut": "01404",
+    "idRegion": 1,
+    "idProvincia": 40,
+    "idComuna": 4,
+    "nombre": "Huara",
+    "provincia": "Tamarugal",
+    "region": "Tarapacá",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Huara.svg"
+  },
+  {
+    "cut": "01405",
+    "idRegion": 1,
+    "idProvincia": 40,
+    "idComuna": 5,
+    "nombre": "Pica",
+    "provincia": "Tamarugal",
+    "region": "Tarapacá",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Pica.svg"
+  },
+  {
+    "cut": "02101",
+    "idRegion": 2,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Antofagasta",
+    "provincia": "Antofagasta",
+    "region": "Antofagasta",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Antofagasta.svg"
+  },
+  {
+    "cut": "02102",
+    "idRegion": 2,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Mejillones",
+    "provincia": "Antofagasta",
+    "region": "Antofagasta",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Mejillones.svg"
+  },
+  {
+    "cut": "02103",
+    "idRegion": 2,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Sierra Gorda",
+    "provincia": "Antofagasta",
+    "region": "Antofagasta",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Sierra_Gorda.svg"
+  },
+  {
+    "cut": "02104",
+    "idRegion": 2,
+    "idProvincia": 10,
+    "idComuna": 4,
+    "nombre": "Taltal",
+    "provincia": "Antofagasta",
+    "region": "Antofagasta",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Taltal.svg"
+  },
+  {
+    "cut": "02201",
+    "idRegion": 2,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Calama",
+    "provincia": "El Loa",
+    "region": "Antofagasta",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Calama.svg"
+  },
+  {
+    "cut": "02202",
+    "idRegion": 2,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "Ollagüe",
+    "provincia": "El Loa",
+    "region": "Antofagasta",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Ollag%C3%BCe.svg"
+  },
+  {
+    "cut": "02203",
+    "idRegion": 2,
+    "idProvincia": 20,
+    "idComuna": 3,
+    "nombre": "San Pedro de Atacama",
+    "provincia": "El Loa",
+    "region": "Antofagasta",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Pedro_de_Atacama.svg"
+  },
+  {
+    "cut": "02301",
+    "idRegion": 2,
+    "idProvincia": 30,
+    "idComuna": 1,
+    "nombre": "Tocopilla",
+    "provincia": "Tocopilla",
+    "region": "Antofagasta",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Tocopilla.svg"
+  },
+  {
+    "cut": "02302",
+    "idRegion": 2,
+    "idProvincia": 30,
+    "idComuna": 2,
+    "nombre": "María Elena",
+    "provincia": "Tocopilla",
+    "region": "Antofagasta",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Mar%C3%ADa_Elena.svg"
+  },
+  {
+    "cut": "03101",
+    "idRegion": 3,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Copiapó",
+    "provincia": "Copiapó",
+    "region": "Atacama",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Copiap%C3%B3.svg"
+  },
+  {
+    "cut": "03102",
+    "idRegion": 3,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Caldera",
+    "provincia": "Copiapó",
+    "region": "Atacama",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Caldera_logo.JPG"
+  },
+  {
+    "cut": "03103",
+    "idRegion": 3,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Tierra Amarilla",
+    "provincia": "Copiapó",
+    "region": "Atacama",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Tierra_Amarilla.svg"
+  },
+  {
+    "cut": "03201",
+    "idRegion": 3,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Chañaral",
+    "provincia": "Chañaral",
+    "region": "Atacama",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Cha%C3%B1aral.svg"
+  },
+  {
+    "cut": "03202",
+    "idRegion": 3,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "Diego de Almagro",
+    "provincia": "Chañaral",
+    "region": "Atacama",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_la_comuna_de_Diego_de_Almagro.svg"
+  },
+  {
+    "cut": "03301",
+    "idRegion": 3,
+    "idProvincia": 30,
+    "idComuna": 1,
+    "nombre": "Vallenar",
+    "provincia": "Huasco",
+    "region": "Atacama",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_Vallenar.png"
+  },
+  {
+    "cut": "03302",
+    "idRegion": 3,
+    "idProvincia": 30,
+    "idComuna": 2,
+    "nombre": "Alto del Carmen",
+    "provincia": "Huasco",
+    "region": "Atacama",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Alto_del_Carmen.svg"
+  },
+  {
+    "cut": "03303",
+    "idRegion": 3,
+    "idProvincia": 30,
+    "idComuna": 3,
+    "nombre": "Freirina",
+    "provincia": "Huasco",
+    "region": "Atacama",
+    "escudo": null
+  },
+  {
+    "cut": "03304",
+    "idRegion": 3,
+    "idProvincia": 30,
+    "idComuna": 4,
+    "nombre": "Huasco",
+    "provincia": "Huasco",
+    "region": "Atacama",
+    "escudo": null
+  },
+  {
+    "cut": "04101",
+    "idRegion": 4,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "La Serena",
+    "provincia": "Elqui",
+    "region": "Coquimbo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_La_Serena.svg"
+  },
+  {
+    "cut": "04102",
+    "idRegion": 4,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Coquimbo",
+    "provincia": "Elqui",
+    "region": "Coquimbo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Coquimbo.svg"
+  },
+  {
+    "cut": "04103",
+    "idRegion": 4,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Andacollo",
+    "provincia": "Elqui",
+    "region": "Coquimbo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_andacollo.png"
+  },
+  {
+    "cut": "04104",
+    "idRegion": 4,
+    "idProvincia": 10,
+    "idComuna": 4,
+    "nombre": "La Higuera",
+    "provincia": "Elqui",
+    "region": "Coquimbo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_La_Higuera.svg"
+  },
+  {
+    "cut": "04105",
+    "idRegion": 4,
+    "idProvincia": 10,
+    "idComuna": 5,
+    "nombre": "Paihuano",
+    "provincia": "Elqui",
+    "region": "Coquimbo",
+    "escudo": null
+  },
+  {
+    "cut": "04106",
+    "idRegion": 4,
+    "idProvincia": 10,
+    "idComuna": 6,
+    "nombre": "Vicuña",
+    "provincia": "Elqui",
+    "region": "Coquimbo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_Vicu%C3%B1a_Chile.png"
+  },
+  {
+    "cut": "04201",
+    "idRegion": 4,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Illapel",
+    "provincia": "Choapa",
+    "region": "Coquimbo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_Illapel.png"
+  },
+  {
+    "cut": "04202",
+    "idRegion": 4,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "Canela",
+    "provincia": "Choapa",
+    "region": "Coquimbo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Canela.svg"
+  },
+  {
+    "cut": "04203",
+    "idRegion": 4,
+    "idProvincia": 20,
+    "idComuna": 3,
+    "nombre": "Los Vilos",
+    "provincia": "Choapa",
+    "region": "Coquimbo",
+    "escudo": null
+  },
+  {
+    "cut": "04204",
+    "idRegion": 4,
+    "idProvincia": 20,
+    "idComuna": 4,
+    "nombre": "Salamanca",
+    "provincia": "Choapa",
+    "region": "Coquimbo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Salamanca_(Chile).svg"
+  },
+  {
+    "cut": "04301",
+    "idRegion": 4,
+    "idProvincia": 30,
+    "idComuna": 1,
+    "nombre": "Ovalle",
+    "provincia": "Limarí",
+    "region": "Coquimbo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Ovalle.svg"
+  },
+  {
+    "cut": "04302",
+    "idRegion": 4,
+    "idProvincia": 30,
+    "idComuna": 2,
+    "nombre": "Combarbalá",
+    "provincia": "Limarí",
+    "region": "Coquimbo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Combarbal%C3%A1.svg"
+  },
+  {
+    "cut": "04303",
+    "idRegion": 4,
+    "idProvincia": 30,
+    "idComuna": 3,
+    "nombre": "Monte Patria",
+    "provincia": "Limarí",
+    "region": "Coquimbo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Monte_Patria.svg"
+  },
+  {
+    "cut": "04304",
+    "idRegion": 4,
+    "idProvincia": 30,
+    "idComuna": 4,
+    "nombre": "Punitaqui",
+    "provincia": "Limarí",
+    "region": "Coquimbo",
+    "escudo": null
+  },
+  {
+    "cut": "04305",
+    "idRegion": 4,
+    "idProvincia": 30,
+    "idComuna": 5,
+    "nombre": "Río Hurtado",
+    "provincia": "Limarí",
+    "region": "Coquimbo",
+    "escudo": null
+  },
+  {
+    "cut": "05101",
+    "idRegion": 5,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Valparaíso",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Valpara%C3%ADso_(Chile).svg"
+  },
+  {
+    "cut": "05102",
+    "idRegion": 5,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Casablanca",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Casablanca.svg"
+  },
+  {
+    "cut": "05103",
+    "idRegion": 5,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Concón",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Conc%C3%B3n.svg"
+  },
+  {
+    "cut": "05104",
+    "idRegion": 5,
+    "idProvincia": 10,
+    "idComuna": 4,
+    "nombre": "Juan Fernández",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Juan_Fern%C3%A1ndez.svg"
+  },
+  {
+    "cut": "05105",
+    "idRegion": 5,
+    "idProvincia": 10,
+    "idComuna": 5,
+    "nombre": "Puchuncaví",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05107",
+    "idRegion": 5,
+    "idProvincia": 10,
+    "idComuna": 7,
+    "nombre": "Quintero",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05109",
+    "idRegion": 5,
+    "idProvincia": 10,
+    "idComuna": 9,
+    "nombre": "Viña del Mar",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Vi%C3%B1a_del_Mar.svg"
+  },
+  {
+    "cut": "05201",
+    "idRegion": 5,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Isla de Pascua",
+    "provincia": "Isla de Pascua",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Emblem_of_Easter_Island.svg"
+  },
+  {
+    "cut": "05301",
+    "idRegion": 5,
+    "idProvincia": 30,
+    "idComuna": 1,
+    "nombre": "Los Andes",
+    "provincia": "Los Andes",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Los_Andes.svg"
+  },
+  {
+    "cut": "05302",
+    "idRegion": 5,
+    "idProvincia": 30,
+    "idComuna": 2,
+    "nombre": "Calle Larga",
+    "provincia": "Los Andes",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05303",
+    "idRegion": 5,
+    "idProvincia": 30,
+    "idComuna": 3,
+    "nombre": "Rinconada",
+    "provincia": "Los Andes",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Rinconada.svg"
+  },
+  {
+    "cut": "05304",
+    "idRegion": 5,
+    "idProvincia": 30,
+    "idComuna": 4,
+    "nombre": "San Esteban",
+    "provincia": "Los Andes",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05401",
+    "idRegion": 5,
+    "idProvincia": 40,
+    "idComuna": 1,
+    "nombre": "La Ligua",
+    "provincia": "Petorca",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_La_Ligua.svg"
+  },
+  {
+    "cut": "05402",
+    "idRegion": 5,
+    "idProvincia": 40,
+    "idComuna": 2,
+    "nombre": "Cabildo",
+    "provincia": "Petorca",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05403",
+    "idRegion": 5,
+    "idProvincia": 40,
+    "idComuna": 3,
+    "nombre": "Papudo",
+    "provincia": "Petorca",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Papudo.svg"
+  },
+  {
+    "cut": "05404",
+    "idRegion": 5,
+    "idProvincia": 40,
+    "idComuna": 4,
+    "nombre": "Petorca",
+    "provincia": "Petorca",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05405",
+    "idRegion": 5,
+    "idProvincia": 40,
+    "idComuna": 5,
+    "nombre": "Zapallar",
+    "provincia": "Petorca",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Zapallar.svg"
+  },
+  {
+    "cut": "05501",
+    "idRegion": 5,
+    "idProvincia": 50,
+    "idComuna": 1,
+    "nombre": "Quillota",
+    "provincia": "Quillota",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Quillota.svg"
+  },
+  {
+    "cut": "05502",
+    "idRegion": 5,
+    "idProvincia": 50,
+    "idComuna": 2,
+    "nombre": "La Calera",
+    "provincia": "Quillota",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05503",
+    "idRegion": 5,
+    "idProvincia": 50,
+    "idComuna": 3,
+    "nombre": "Hijuelas",
+    "provincia": "Quillota",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05504",
+    "idRegion": 5,
+    "idProvincia": 50,
+    "idComuna": 4,
+    "nombre": "La Cruz",
+    "provincia": "Quillota",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05506",
+    "idRegion": 5,
+    "idProvincia": 50,
+    "idComuna": 6,
+    "nombre": "Nogales",
+    "provincia": "Quillota",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05601",
+    "idRegion": 5,
+    "idProvincia": 60,
+    "idComuna": 1,
+    "nombre": "San Antonio",
+    "provincia": "San Antonio",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Antonio_(Chile).svg"
+  },
+  {
+    "cut": "05602",
+    "idRegion": 5,
+    "idProvincia": 60,
+    "idComuna": 2,
+    "nombre": "Algarrobo",
+    "provincia": "San Antonio",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Algarrobo.svg"
+  },
+  {
+    "cut": "05603",
+    "idRegion": 5,
+    "idProvincia": 60,
+    "idComuna": 3,
+    "nombre": "Cartagena",
+    "provincia": "San Antonio",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_la_Municipalidad_de_Cartagena_-_Chile.svg"
+  },
+  {
+    "cut": "05604",
+    "idRegion": 5,
+    "idProvincia": 60,
+    "idComuna": 4,
+    "nombre": "El Quisco",
+    "provincia": "San Antonio",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_El_Quisco.svg"
+  },
+  {
+    "cut": "05605",
+    "idRegion": 5,
+    "idProvincia": 60,
+    "idComuna": 5,
+    "nombre": "El Tabo",
+    "provincia": "San Antonio",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05606",
+    "idRegion": 5,
+    "idProvincia": 60,
+    "idComuna": 6,
+    "nombre": "Santo Domingo",
+    "provincia": "San Antonio",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05701",
+    "idRegion": 5,
+    "idProvincia": 70,
+    "idComuna": 1,
+    "nombre": "San Felipe",
+    "provincia": "San Felipe de Aconcagua",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Felipe.svg"
+  },
+  {
+    "cut": "05702",
+    "idRegion": 5,
+    "idProvincia": 70,
+    "idComuna": 2,
+    "nombre": "Catemu",
+    "provincia": "San Felipe de Aconcagua",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05703",
+    "idRegion": 5,
+    "idProvincia": 70,
+    "idComuna": 3,
+    "nombre": "Llay-Llay",
+    "provincia": "San Felipe de Aconcagua",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Llay_Llay.svg"
+  },
+  {
+    "cut": "05704",
+    "idRegion": 5,
+    "idProvincia": 70,
+    "idComuna": 4,
+    "nombre": "Panquehue",
+    "provincia": "San Felipe de Aconcagua",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Panquehue.svg"
+  },
+  {
+    "cut": "05705",
+    "idRegion": 5,
+    "idProvincia": 70,
+    "idComuna": 5,
+    "nombre": "Putaendo",
+    "provincia": "San Felipe de Aconcagua",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Putaendo.svg"
+  },
+  {
+    "cut": "05706",
+    "idRegion": 5,
+    "idProvincia": 70,
+    "idComuna": 6,
+    "nombre": "Santa María",
+    "provincia": "San Felipe de Aconcagua",
+    "region": "Valparaíso",
+    "escudo": null
+  },
+  {
+    "cut": "05801",
+    "idRegion": 5,
+    "idProvincia": 80,
+    "idComuna": 1,
+    "nombre": "Quilpué",
+    "provincia": "Marga Marga",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Quilpu%C3%A9.svg"
+  },
+  {
+    "cut": "05802",
+    "idRegion": 5,
+    "idProvincia": 80,
+    "idComuna": 2,
+    "nombre": "Limache",
+    "provincia": "Marga Marga",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Limache.svg"
+  },
+  {
+    "cut": "05803",
+    "idRegion": 5,
+    "idProvincia": 80,
+    "idComuna": 3,
+    "nombre": "Olmué",
+    "provincia": "Marga Marga",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Olmu%C3%A9.svg"
+  },
+  {
+    "cut": "05804",
+    "idRegion": 5,
+    "idProvincia": 80,
+    "idComuna": 4,
+    "nombre": "Villa Alemana",
+    "provincia": "Marga Marga",
+    "region": "Valparaíso",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Villa_Alemana.svg"
+  },
+  {
+    "cut": "06101",
+    "idRegion": 6,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Rancagua",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Rancagua.svg"
+  },
+  {
+    "cut": "06102",
+    "idRegion": 6,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Codegua",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06103",
+    "idRegion": 6,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Coinco",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06104",
+    "idRegion": 6,
+    "idProvincia": 10,
+    "idComuna": 4,
+    "nombre": "Coltauco",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06105",
+    "idRegion": 6,
+    "idProvincia": 10,
+    "idComuna": 5,
+    "nombre": "Doñihue",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06106",
+    "idRegion": 6,
+    "idProvincia": 10,
+    "idComuna": 6,
+    "nombre": "Graneros",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06107",
+    "idRegion": 6,
+    "idProvincia": 10,
+    "idComuna": 7,
+    "nombre": "Las Cabras",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06108",
+    "idRegion": 6,
+    "idProvincia": 10,
+    "idComuna": 8,
+    "nombre": "Machalí",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06109",
+    "idRegion": 6,
+    "idProvincia": 10,
+    "idComuna": 9,
+    "nombre": "Malloa",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06110",
+    "idRegion": 6,
+    "idProvincia": 11,
+    "idComuna": 0,
+    "nombre": "Mostazal",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06111",
+    "idRegion": 6,
+    "idProvincia": 11,
+    "idComuna": 1,
+    "nombre": "Olivar",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_El_Olivar.svg"
+  },
+  {
+    "cut": "06112",
+    "idRegion": 6,
+    "idProvincia": 11,
+    "idComuna": 2,
+    "nombre": "Peumo",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Peumo.svg"
+  },
+  {
+    "cut": "06113",
+    "idRegion": 6,
+    "idProvincia": 11,
+    "idComuna": 3,
+    "nombre": "Pichidegua",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06114",
+    "idRegion": 6,
+    "idProvincia": 11,
+    "idComuna": 4,
+    "nombre": "Quinta de Tilcoco",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06115",
+    "idRegion": 6,
+    "idProvincia": 11,
+    "idComuna": 5,
+    "nombre": "Rengo",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Rengo.svg"
+  },
+  {
+    "cut": "06116",
+    "idRegion": 6,
+    "idProvincia": 11,
+    "idComuna": 6,
+    "nombre": "Requínoa",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_Requinoa.png"
+  },
+  {
+    "cut": "06117",
+    "idRegion": 6,
+    "idProvincia": 11,
+    "idComuna": 7,
+    "nombre": "San Vicente",
+    "provincia": "Cachapoal",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06201",
+    "idRegion": 6,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Pichilemu",
+    "provincia": "Cardenal Caro",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Coat_of_arms_of_Pichilemu.svg"
+  },
+  {
+    "cut": "06202",
+    "idRegion": 6,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "La Estrella",
+    "provincia": "Cardenal Caro",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06203",
+    "idRegion": 6,
+    "idProvincia": 20,
+    "idComuna": 3,
+    "nombre": "Litueche",
+    "provincia": "Cardenal Caro",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06204",
+    "idRegion": 6,
+    "idProvincia": 20,
+    "idComuna": 4,
+    "nombre": "Marchihue",
+    "provincia": "Cardenal Caro",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06205",
+    "idRegion": 6,
+    "idProvincia": 20,
+    "idComuna": 5,
+    "nombre": "Navidad",
+    "provincia": "Cardenal Caro",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06206",
+    "idRegion": 6,
+    "idProvincia": 20,
+    "idComuna": 6,
+    "nombre": "Paredones",
+    "provincia": "Cardenal Caro",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06301",
+    "idRegion": 6,
+    "idProvincia": 30,
+    "idComuna": 1,
+    "nombre": "San Fernando",
+    "provincia": "Colchagua",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Fernando_(Chile).svg"
+  },
+  {
+    "cut": "06302",
+    "idRegion": 6,
+    "idProvincia": 30,
+    "idComuna": 2,
+    "nombre": "Chépica",
+    "provincia": "Colchagua",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06303",
+    "idRegion": 6,
+    "idProvincia": 30,
+    "idComuna": 3,
+    "nombre": "Chimbarongo",
+    "provincia": "Colchagua",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Chimbarongo.svg"
+  },
+  {
+    "cut": "06304",
+    "idRegion": 6,
+    "idProvincia": 30,
+    "idComuna": 4,
+    "nombre": "Lolol",
+    "provincia": "Colchagua",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Lolol.svg"
+  },
+  {
+    "cut": "06305",
+    "idRegion": 6,
+    "idProvincia": 30,
+    "idComuna": 5,
+    "nombre": "Nancagua",
+    "provincia": "Colchagua",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06306",
+    "idRegion": 6,
+    "idProvincia": 30,
+    "idComuna": 6,
+    "nombre": "Palmilla",
+    "provincia": "Colchagua",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06307",
+    "idRegion": 6,
+    "idProvincia": 30,
+    "idComuna": 7,
+    "nombre": "Peralillo",
+    "provincia": "Colchagua",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06308",
+    "idRegion": 6,
+    "idProvincia": 30,
+    "idComuna": 8,
+    "nombre": "Placilla",
+    "provincia": "Colchagua",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Placilla.svg"
+  },
+  {
+    "cut": "06309",
+    "idRegion": 6,
+    "idProvincia": 30,
+    "idComuna": 9,
+    "nombre": "Pumanque",
+    "provincia": "Colchagua",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": null
+  },
+  {
+    "cut": "06310",
+    "idRegion": 6,
+    "idProvincia": 31,
+    "idComuna": 0,
+    "nombre": "Santa Cruz",
+    "provincia": "Colchagua",
+    "region": "Lib. Gral. Bernardo O'Higgins",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Santa_Cruz,_Chile.svg"
+  },
+  {
+    "cut": "07101",
+    "idRegion": 7,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Talca",
+    "provincia": "Talca",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Talca.svg"
+  },
+  {
+    "cut": "07102",
+    "idRegion": 7,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Constitución",
+    "provincia": "Talca",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Constituci%C3%B3n_(Chile).svg"
+  },
+  {
+    "cut": "07103",
+    "idRegion": 7,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Curepto",
+    "provincia": "Talca",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_curepto_2014.jpg"
+  },
+  {
+    "cut": "07104",
+    "idRegion": 7,
+    "idProvincia": 10,
+    "idComuna": 4,
+    "nombre": "Empedrado",
+    "provincia": "Talca",
+    "region": "Maule",
+    "escudo": null
+  },
+  {
+    "cut": "07105",
+    "idRegion": 7,
+    "idProvincia": 10,
+    "idComuna": 5,
+    "nombre": "Maule",
+    "provincia": "Talca",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Maule_Comuna_Armas.png"
+  },
+  {
+    "cut": "07106",
+    "idRegion": 7,
+    "idProvincia": 10,
+    "idComuna": 6,
+    "nombre": "Pelarco",
+    "provincia": "Talca",
+    "region": "Maule",
+    "escudo": null
+  },
+  {
+    "cut": "07107",
+    "idRegion": 7,
+    "idProvincia": 10,
+    "idComuna": 7,
+    "nombre": "Pencahue",
+    "provincia": "Talca",
+    "region": "Maule",
+    "escudo": null
+  },
+  {
+    "cut": "07108",
+    "idRegion": 7,
+    "idProvincia": 10,
+    "idComuna": 8,
+    "nombre": "Río Claro",
+    "provincia": "Talca",
+    "region": "Maule",
+    "escudo": null
+  },
+  {
+    "cut": "07109",
+    "idRegion": 7,
+    "idProvincia": 10,
+    "idComuna": 9,
+    "nombre": "San Clemente",
+    "provincia": "Talca",
+    "region": "Maule",
+    "escudo": null
+  },
+  {
+    "cut": "07110",
+    "idRegion": 7,
+    "idProvincia": 11,
+    "idComuna": 0,
+    "nombre": "San Rafael",
+    "provincia": "Talca",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Rafael_(Chile).svg"
+  },
+  {
+    "cut": "07201",
+    "idRegion": 7,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Cauquenes",
+    "provincia": "Cauquenes",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Armas_de_Cauquenes.png"
+  },
+  {
+    "cut": "07202",
+    "idRegion": 7,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "Chanco",
+    "provincia": "Cauquenes",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_Chanco_Oficial.png"
+  },
+  {
+    "cut": "07203",
+    "idRegion": 7,
+    "idProvincia": 20,
+    "idComuna": 3,
+    "nombre": "Pelluhue",
+    "provincia": "Cauquenes",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_Pelluhue.png"
+  },
+  {
+    "cut": "07301",
+    "idRegion": 7,
+    "idProvincia": 30,
+    "idComuna": 1,
+    "nombre": "Curicó",
+    "provincia": "Curicó",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Curic%C3%B3.svg"
+  },
+  {
+    "cut": "07302",
+    "idRegion": 7,
+    "idProvincia": 30,
+    "idComuna": 2,
+    "nombre": "Hualañé",
+    "provincia": "Curicó",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Huala%C3%B1e.svg"
+  },
+  {
+    "cut": "07303",
+    "idRegion": 7,
+    "idProvincia": 30,
+    "idComuna": 3,
+    "nombre": "Licantén",
+    "provincia": "Curicó",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Licant%C3%A9n.svg"
+  },
+  {
+    "cut": "07304",
+    "idRegion": 7,
+    "idProvincia": 30,
+    "idComuna": 4,
+    "nombre": "Molina",
+    "provincia": "Curicó",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_molina.jpg"
+  },
+  {
+    "cut": "07305",
+    "idRegion": 7,
+    "idProvincia": 30,
+    "idComuna": 5,
+    "nombre": "Rauco",
+    "provincia": "Curicó",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_Rauco.svg"
+  },
+  {
+    "cut": "07306",
+    "idRegion": 7,
+    "idProvincia": 30,
+    "idComuna": 6,
+    "nombre": "Romeral",
+    "provincia": "Curicó",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_Romeral.png"
+  },
+  {
+    "cut": "07307",
+    "idRegion": 7,
+    "idProvincia": 30,
+    "idComuna": 7,
+    "nombre": "Sagrada Familia",
+    "provincia": "Curicó",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Sagrada_Familia.svg"
+  },
+  {
+    "cut": "07308",
+    "idRegion": 7,
+    "idProvincia": 30,
+    "idComuna": 8,
+    "nombre": "Teno",
+    "provincia": "Curicó",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_Teno.png"
+  },
+  {
+    "cut": "07309",
+    "idRegion": 7,
+    "idProvincia": 30,
+    "idComuna": 9,
+    "nombre": "Vichuquén",
+    "provincia": "Curicó",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_Vichuqu%C3%A9n.png"
+  },
+  {
+    "cut": "07401",
+    "idRegion": 7,
+    "idProvincia": 40,
+    "idComuna": 1,
+    "nombre": "Linares",
+    "provincia": "Linares",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Linares_(Chile).svg"
+  },
+  {
+    "cut": "07402",
+    "idRegion": 7,
+    "idProvincia": 40,
+    "idComuna": 2,
+    "nombre": "Colbún",
+    "provincia": "Linares",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Armas_Colb%C3%BAn.png"
+  },
+  {
+    "cut": "07403",
+    "idRegion": 7,
+    "idProvincia": 40,
+    "idComuna": 3,
+    "nombre": "Longaví",
+    "provincia": "Linares",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Longav%C3%AD.png"
+  },
+  {
+    "cut": "07404",
+    "idRegion": 7,
+    "idProvincia": 40,
+    "idComuna": 4,
+    "nombre": "Parral",
+    "provincia": "Linares",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Parral.svg"
+  },
+  {
+    "cut": "07405",
+    "idRegion": 7,
+    "idProvincia": 40,
+    "idComuna": 5,
+    "nombre": "Retiro",
+    "provincia": "Linares",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_Retiro_Chile.png"
+  },
+  {
+    "cut": "07406",
+    "idRegion": 7,
+    "idProvincia": 40,
+    "idComuna": 6,
+    "nombre": "San Javier",
+    "provincia": "Linares",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Javier_(Chile).svg"
+  },
+  {
+    "cut": "07407",
+    "idRegion": 7,
+    "idProvincia": 40,
+    "idComuna": 7,
+    "nombre": "Villa Alegre",
+    "provincia": "Linares",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Villa_Alegre.svg"
+  },
+  {
+    "cut": "07408",
+    "idRegion": 7,
+    "idProvincia": 40,
+    "idComuna": 8,
+    "nombre": "Yerbas Buenas",
+    "provincia": "Linares",
+    "region": "Maule",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Yerbas_Buenas.svg"
+  },
+  {
+    "cut": "16101",
+    "idRegion": 16,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Chillán",
+    "provincia": "Diguillín",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Chill%C3%A1n.svg"
+  },
+  {
+    "cut": "16102",
+    "idRegion": 16,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Bulnes",
+    "provincia": "Diguillín",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Bulnes.svg"
+  },
+  {
+    "cut": "16103",
+    "idRegion": 16,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Chillán Viejo",
+    "provincia": "Diguillín",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Chill%C3%A1n_Viejo.svg"
+  },
+  {
+    "cut": "16104",
+    "idRegion": 16,
+    "idProvincia": 10,
+    "idComuna": 4,
+    "nombre": "El Carmen",
+    "provincia": "Diguillín",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_El_Carmen.png"
+  },
+  {
+    "cut": "16105",
+    "idRegion": 16,
+    "idProvincia": 10,
+    "idComuna": 5,
+    "nombre": "Pemuco",
+    "provincia": "Diguillín",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Pemuco.svg"
+  },
+  {
+    "cut": "16106",
+    "idRegion": 16,
+    "idProvincia": 10,
+    "idComuna": 6,
+    "nombre": "Pinto",
+    "provincia": "Diguillín",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Pinto_(Chile).svg"
+  },
+  {
+    "cut": "16107",
+    "idRegion": 16,
+    "idProvincia": 10,
+    "idComuna": 7,
+    "nombre": "Quillón",
+    "provincia": "Diguillín",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Quill%C3%B3n.svg"
+  },
+  {
+    "cut": "16108",
+    "idRegion": 16,
+    "idProvincia": 10,
+    "idComuna": 8,
+    "nombre": "San Ignacio",
+    "provincia": "Diguillín",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Ignacio.svg"
+  },
+  {
+    "cut": "16109",
+    "idRegion": 16,
+    "idProvincia": 10,
+    "idComuna": 9,
+    "nombre": "Yungay",
+    "provincia": "Diguillín",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Yungay.svg"
+  },
+  {
+    "cut": "16201",
+    "idRegion": 16,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Quirihue",
+    "provincia": "Itata",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Quirihue.svg"
+  },
+  {
+    "cut": "16202",
+    "idRegion": 16,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "Cobquecura",
+    "provincia": "Itata",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Cobquecura.svg"
+  },
+  {
+    "cut": "16203",
+    "idRegion": 16,
+    "idProvincia": 20,
+    "idComuna": 3,
+    "nombre": "Coelemu",
+    "provincia": "Itata",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Coelemu.svg"
+  },
+  {
+    "cut": "16204",
+    "idRegion": 16,
+    "idProvincia": 20,
+    "idComuna": 4,
+    "nombre": "Ninhue",
+    "provincia": "Itata",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Ninhue.svg"
+  },
+  {
+    "cut": "16205",
+    "idRegion": 16,
+    "idProvincia": 20,
+    "idComuna": 5,
+    "nombre": "Portezuelo",
+    "provincia": "Itata",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Portezuelo_(Chile).svg"
+  },
+  {
+    "cut": "16206",
+    "idRegion": 16,
+    "idProvincia": 20,
+    "idComuna": 6,
+    "nombre": "Ránquil",
+    "provincia": "Itata",
+    "region": "Ñuble",
+    "escudo": null
+  },
+  {
+    "cut": "16207",
+    "idRegion": 16,
+    "idProvincia": 20,
+    "idComuna": 7,
+    "nombre": "Treguaco",
+    "provincia": "Itata",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Trehuaco.svg"
+  },
+  {
+    "cut": "16301",
+    "idRegion": 16,
+    "idProvincia": 30,
+    "idComuna": 1,
+    "nombre": "San Carlos",
+    "provincia": "Punilla",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Carlos_(Chile).svg"
+  },
+  {
+    "cut": "16302",
+    "idRegion": 16,
+    "idProvincia": 30,
+    "idComuna": 2,
+    "nombre": "Coihueco",
+    "provincia": "Punilla",
+    "region": "Ñuble",
+    "escudo": null
+  },
+  {
+    "cut": "16303",
+    "idRegion": 16,
+    "idProvincia": 30,
+    "idComuna": 3,
+    "nombre": "Ñiquén",
+    "provincia": "Punilla",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_%C3%91iqu%C3%A9n.svg"
+  },
+  {
+    "cut": "16304",
+    "idRegion": 16,
+    "idProvincia": 30,
+    "idComuna": 4,
+    "nombre": "San Fabián",
+    "provincia": "Punilla",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Fabi%C3%A1n.svg"
+  },
+  {
+    "cut": "16305",
+    "idRegion": 16,
+    "idProvincia": 30,
+    "idComuna": 5,
+    "nombre": "San Nicolás",
+    "provincia": "Punilla",
+    "region": "Ñuble",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Nicol%C3%A1s_(Chile).svg"
+  },
+  {
+    "cut": "08101",
+    "idRegion": 8,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Concepción",
+    "provincia": "Concepción",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Concepci%C3%B3n_(Chile).svg"
+  },
+  {
+    "cut": "08102",
+    "idRegion": 8,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Coronel",
+    "provincia": "Concepción",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Coronel.svg"
+  },
+  {
+    "cut": "08103",
+    "idRegion": 8,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Chiguayante",
+    "provincia": "Concepción",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Chiguayante.svg"
+  },
+  {
+    "cut": "08104",
+    "idRegion": 8,
+    "idProvincia": 10,
+    "idComuna": 4,
+    "nombre": "Florida",
+    "provincia": "Concepción",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Florida_(Chile).svg"
+  },
+  {
+    "cut": "08105",
+    "idRegion": 8,
+    "idProvincia": 10,
+    "idComuna": 5,
+    "nombre": "Hualqui",
+    "provincia": "Concepción",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Hualqui.svg"
+  },
+  {
+    "cut": "08106",
+    "idRegion": 8,
+    "idProvincia": 10,
+    "idComuna": 6,
+    "nombre": "Lota",
+    "provincia": "Concepción",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Lota.svg"
+  },
+  {
+    "cut": "08107",
+    "idRegion": 8,
+    "idProvincia": 10,
+    "idComuna": 7,
+    "nombre": "Penco",
+    "provincia": "Concepción",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Penco.svg"
+  },
+  {
+    "cut": "08108",
+    "idRegion": 8,
+    "idProvincia": 10,
+    "idComuna": 8,
+    "nombre": "San Pedro de La Paz",
+    "provincia": "Concepción",
+    "region": "Biobío",
+    "escudo": null
+  },
+  {
+    "cut": "08109",
+    "idRegion": 8,
+    "idProvincia": 10,
+    "idComuna": 9,
+    "nombre": "Santa Juana",
+    "provincia": "Concepción",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Santa_Juana.svg"
+  },
+  {
+    "cut": "08110",
+    "idRegion": 8,
+    "idProvincia": 11,
+    "idComuna": 0,
+    "nombre": "Talcahuano",
+    "provincia": "Concepción",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Talcahuano.svg"
+  },
+  {
+    "cut": "08111",
+    "idRegion": 8,
+    "idProvincia": 11,
+    "idComuna": 1,
+    "nombre": "Tomé",
+    "provincia": "Concepción",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Tom%C3%A9.svg"
+  },
+  {
+    "cut": "08112",
+    "idRegion": 8,
+    "idProvincia": 11,
+    "idComuna": 2,
+    "nombre": "Hualpén",
+    "provincia": "Concepción",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Hualp%C3%A9n.svg"
+  },
+  {
+    "cut": "08201",
+    "idRegion": 8,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Lebu",
+    "provincia": "Arauco",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Lebu.svg"
+  },
+  {
+    "cut": "08202",
+    "idRegion": 8,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "Arauco",
+    "provincia": "Arauco",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Arauco.svg"
+  },
+  {
+    "cut": "08203",
+    "idRegion": 8,
+    "idProvincia": 20,
+    "idComuna": 3,
+    "nombre": "Cañete",
+    "provincia": "Arauco",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Ca%C3%B1ete_(Chile).svg"
+  },
+  {
+    "cut": "08204",
+    "idRegion": 8,
+    "idProvincia": 20,
+    "idComuna": 4,
+    "nombre": "Contulmo",
+    "provincia": "Arauco",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Contulmo.svg"
+  },
+  {
+    "cut": "08205",
+    "idRegion": 8,
+    "idProvincia": 20,
+    "idComuna": 5,
+    "nombre": "Curanilahue",
+    "provincia": "Arauco",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Curanilahue.svg"
+  },
+  {
+    "cut": "08206",
+    "idRegion": 8,
+    "idProvincia": 20,
+    "idComuna": 6,
+    "nombre": "Los Álamos",
+    "provincia": "Arauco",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Los_%C3%81lamos.svg"
+  },
+  {
+    "cut": "08207",
+    "idRegion": 8,
+    "idProvincia": 20,
+    "idComuna": 7,
+    "nombre": "Tirúa",
+    "provincia": "Arauco",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Tir%C3%BAa.svg"
+  },
+  {
+    "cut": "08301",
+    "idRegion": 8,
+    "idProvincia": 30,
+    "idComuna": 1,
+    "nombre": "Los Ángeles",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Los_%C3%81ngeles_(Chile).svg"
+  },
+  {
+    "cut": "08302",
+    "idRegion": 8,
+    "idProvincia": 30,
+    "idComuna": 2,
+    "nombre": "Antuco",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Antuco.svg"
+  },
+  {
+    "cut": "08303",
+    "idRegion": 8,
+    "idProvincia": 30,
+    "idComuna": 3,
+    "nombre": "Cabrero",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Cabrero.svg"
+  },
+  {
+    "cut": "08304",
+    "idRegion": 8,
+    "idProvincia": 30,
+    "idComuna": 4,
+    "nombre": "Laja",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Laja.svg"
+  },
+  {
+    "cut": "08305",
+    "idRegion": 8,
+    "idProvincia": 30,
+    "idComuna": 5,
+    "nombre": "Mulchén",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Mulch%C3%A9n.png"
+  },
+  {
+    "cut": "08306",
+    "idRegion": 8,
+    "idProvincia": 30,
+    "idComuna": 6,
+    "nombre": "Nacimiento",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Nacimiento_(Chile).svg"
+  },
+  {
+    "cut": "08307",
+    "idRegion": 8,
+    "idProvincia": 30,
+    "idComuna": 7,
+    "nombre": "Negrete",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Negrete.svg"
+  },
+  {
+    "cut": "08308",
+    "idRegion": 8,
+    "idProvincia": 30,
+    "idComuna": 8,
+    "nombre": "Quilaco",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Quilaco.svg"
+  },
+  {
+    "cut": "08309",
+    "idRegion": 8,
+    "idProvincia": 30,
+    "idComuna": 9,
+    "nombre": "Quilleco",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Quilleco.svg"
+  },
+  {
+    "cut": "08310",
+    "idRegion": 8,
+    "idProvincia": 31,
+    "idComuna": 0,
+    "nombre": "San Rosendo",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": null
+  },
+  {
+    "cut": "08311",
+    "idRegion": 8,
+    "idProvincia": 31,
+    "idComuna": 1,
+    "nombre": "Santa Bárbara",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Santa_B%C3%A1rbara_(Chile).svg"
+  },
+  {
+    "cut": "08312",
+    "idRegion": 8,
+    "idProvincia": 31,
+    "idComuna": 2,
+    "nombre": "Tucapel",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Tucapel.svg"
+  },
+  {
+    "cut": "08313",
+    "idRegion": 8,
+    "idProvincia": 31,
+    "idComuna": 3,
+    "nombre": "Yumbel",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Yumbel.svg"
+  },
+  {
+    "cut": "08314",
+    "idRegion": 8,
+    "idProvincia": 31,
+    "idComuna": 4,
+    "nombre": "Alto Biobío",
+    "provincia": "Biobío",
+    "region": "Biobío",
+    "escudo": null
+  },
+  {
+    "cut": "09101",
+    "idRegion": 9,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Temuco",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Temuco.svg"
+  },
+  {
+    "cut": "09102",
+    "idRegion": 9,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Carahue",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_La_Imperial.svg"
+  },
+  {
+    "cut": "09103",
+    "idRegion": 9,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Cunco",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09104",
+    "idRegion": 9,
+    "idProvincia": 10,
+    "idComuna": 4,
+    "nombre": "Curarrehue",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09105",
+    "idRegion": 9,
+    "idProvincia": 10,
+    "idComuna": 5,
+    "nombre": "Freire",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09106",
+    "idRegion": 9,
+    "idProvincia": 10,
+    "idComuna": 6,
+    "nombre": "Galvarino",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09107",
+    "idRegion": 9,
+    "idProvincia": 10,
+    "idComuna": 7,
+    "nombre": "Gorbea",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09108",
+    "idRegion": 9,
+    "idProvincia": 10,
+    "idComuna": 8,
+    "nombre": "Lautaro",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Lautaro.svg"
+  },
+  {
+    "cut": "09109",
+    "idRegion": 9,
+    "idProvincia": 10,
+    "idComuna": 9,
+    "nombre": "Loncoche",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09110",
+    "idRegion": 9,
+    "idProvincia": 11,
+    "idComuna": 0,
+    "nombre": "Melipeuco",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09111",
+    "idRegion": 9,
+    "idProvincia": 11,
+    "idComuna": 1,
+    "nombre": "Nueva Imperial",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_La_Imperial.svg"
+  },
+  {
+    "cut": "09112",
+    "idRegion": 9,
+    "idProvincia": 11,
+    "idComuna": 2,
+    "nombre": "Padre Las Casas",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Padre_Las_Casas.svg"
+  },
+  {
+    "cut": "09113",
+    "idRegion": 9,
+    "idProvincia": 11,
+    "idComuna": 3,
+    "nombre": "Perquenco",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09114",
+    "idRegion": 9,
+    "idProvincia": 11,
+    "idComuna": 4,
+    "nombre": "Pitrufquén",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Pitrufqu%C3%A9n.svg"
+  },
+  {
+    "cut": "09115",
+    "idRegion": 9,
+    "idProvincia": 11,
+    "idComuna": 5,
+    "nombre": "Pucón",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Puc%C3%B3n.svg"
+  },
+  {
+    "cut": "09116",
+    "idRegion": 9,
+    "idProvincia": 11,
+    "idComuna": 6,
+    "nombre": "Saavedra",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Saavedra_(Chile).svg"
+  },
+  {
+    "cut": "09117",
+    "idRegion": 9,
+    "idProvincia": 11,
+    "idComuna": 7,
+    "nombre": "Teodoro Schmidt",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09118",
+    "idRegion": 9,
+    "idProvincia": 11,
+    "idComuna": 8,
+    "nombre": "Toltén",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09119",
+    "idRegion": 9,
+    "idProvincia": 11,
+    "idComuna": 9,
+    "nombre": "Vilcún",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09120",
+    "idRegion": 9,
+    "idProvincia": 12,
+    "idComuna": 0,
+    "nombre": "Villarrica",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Villarrica.svg"
+  },
+  {
+    "cut": "09121",
+    "idRegion": 9,
+    "idProvincia": 12,
+    "idComuna": 1,
+    "nombre": "Cholchol",
+    "provincia": "Cautín",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09201",
+    "idRegion": 9,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Angol",
+    "provincia": "Malleco",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Angol.svg"
+  },
+  {
+    "cut": "09202",
+    "idRegion": 9,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "Collipulli",
+    "provincia": "Malleco",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Collipulli.svg"
+  },
+  {
+    "cut": "09203",
+    "idRegion": 9,
+    "idProvincia": 20,
+    "idComuna": 3,
+    "nombre": "Curacautín",
+    "provincia": "Malleco",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Curacaut%C3%ADn.svg"
+  },
+  {
+    "cut": "09204",
+    "idRegion": 9,
+    "idProvincia": 20,
+    "idComuna": 4,
+    "nombre": "Ercilla",
+    "provincia": "Malleco",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09205",
+    "idRegion": 9,
+    "idProvincia": 20,
+    "idComuna": 5,
+    "nombre": "Lonquimay",
+    "provincia": "Malleco",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09206",
+    "idRegion": 9,
+    "idProvincia": 20,
+    "idComuna": 6,
+    "nombre": "Los Sauces",
+    "provincia": "Malleco",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Los_Sauces.svg"
+  },
+  {
+    "cut": "09207",
+    "idRegion": 9,
+    "idProvincia": 20,
+    "idComuna": 7,
+    "nombre": "Lumaco",
+    "provincia": "Malleco",
+    "region": "La Araucanía",
+    "escudo": null
+  },
+  {
+    "cut": "09208",
+    "idRegion": 9,
+    "idProvincia": 20,
+    "idComuna": 8,
+    "nombre": "Purén",
+    "provincia": "Malleco",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Pur%C3%A9n.svg"
+  },
+  {
+    "cut": "09209",
+    "idRegion": 9,
+    "idProvincia": 20,
+    "idComuna": 9,
+    "nombre": "Renaico",
+    "provincia": "Malleco",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Renaico.svg"
+  },
+  {
+    "cut": "09210",
+    "idRegion": 9,
+    "idProvincia": 21,
+    "idComuna": 0,
+    "nombre": "Traiguén",
+    "provincia": "Malleco",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_Traigu%C3%A9n.png"
+  },
+  {
+    "cut": "09211",
+    "idRegion": 9,
+    "idProvincia": 21,
+    "idComuna": 1,
+    "nombre": "Victoria",
+    "provincia": "Malleco",
+    "region": "La Araucanía",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Victoria_(Chile).svg"
+  },
+  {
+    "cut": "14101",
+    "idRegion": 14,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Valdivia",
+    "provincia": "Valdivia",
+    "region": "Los Ríos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Valdivia.svg"
+  },
+  {
+    "cut": "14102",
+    "idRegion": 14,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Corral",
+    "provincia": "Valdivia",
+    "region": "Los Ríos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Corral.svg"
+  },
+  {
+    "cut": "14103",
+    "idRegion": 14,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Lanco",
+    "provincia": "Valdivia",
+    "region": "Los Ríos",
+    "escudo": null
+  },
+  {
+    "cut": "14104",
+    "idRegion": 14,
+    "idProvincia": 10,
+    "idComuna": 4,
+    "nombre": "Los Lagos",
+    "provincia": "Valdivia",
+    "region": "Los Ríos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Los_Lagos.svg"
+  },
+  {
+    "cut": "14105",
+    "idRegion": 14,
+    "idProvincia": 10,
+    "idComuna": 5,
+    "nombre": "Máfil",
+    "provincia": "Valdivia",
+    "region": "Los Ríos",
+    "escudo": null
+  },
+  {
+    "cut": "14106",
+    "idRegion": 14,
+    "idProvincia": 10,
+    "idComuna": 6,
+    "nombre": "Mariquina",
+    "provincia": "Valdivia",
+    "region": "Los Ríos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Mariquina.svg"
+  },
+  {
+    "cut": "14107",
+    "idRegion": 14,
+    "idProvincia": 10,
+    "idComuna": 7,
+    "nombre": "Paillaco",
+    "provincia": "Valdivia",
+    "region": "Los Ríos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:EscudoPaillaco.gif"
+  },
+  {
+    "cut": "14108",
+    "idRegion": 14,
+    "idProvincia": 10,
+    "idComuna": 8,
+    "nombre": "Panguipulli",
+    "provincia": "Valdivia",
+    "region": "Los Ríos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Panguipulli.svg"
+  },
+  {
+    "cut": "14201",
+    "idRegion": 14,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "La Unión",
+    "provincia": "Ranco",
+    "region": "Los Ríos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_La_Uni%C3%B3n_(Chile).svg"
+  },
+  {
+    "cut": "14202",
+    "idRegion": 14,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "Futrono",
+    "provincia": "Ranco",
+    "region": "Los Ríos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Futrono.svg"
+  },
+  {
+    "cut": "14203",
+    "idRegion": 14,
+    "idProvincia": 20,
+    "idComuna": 3,
+    "nombre": "Lago Ranco",
+    "provincia": "Ranco",
+    "region": "Los Ríos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Lago_Ranco.svg"
+  },
+  {
+    "cut": "14204",
+    "idRegion": 14,
+    "idProvincia": 20,
+    "idComuna": 4,
+    "nombre": "Río Bueno",
+    "provincia": "Ranco",
+    "region": "Los Ríos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_R%C3%ADo_Bueno.svg"
+  },
+  {
+    "cut": "10101",
+    "idRegion": 10,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Puerto Montt",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Puerto_Montt.svg"
+  },
+  {
+    "cut": "10102",
+    "idRegion": 10,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Calbuco",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Calbuco.svg"
+  },
+  {
+    "cut": "10103",
+    "idRegion": 10,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Cochamó",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "10104",
+    "idRegion": 10,
+    "idProvincia": 10,
+    "idComuna": 4,
+    "nombre": "Fresia",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "10105",
+    "idRegion": 10,
+    "idProvincia": 10,
+    "idComuna": 5,
+    "nombre": "Frutillar",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "10106",
+    "idRegion": 10,
+    "idProvincia": 10,
+    "idComuna": 6,
+    "nombre": "Los Muermos",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "10107",
+    "idRegion": 10,
+    "idProvincia": 10,
+    "idComuna": 7,
+    "nombre": "Llanquihue",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_la_comuna_de_Llanquihue.jpg"
+  },
+  {
+    "cut": "10108",
+    "idRegion": 10,
+    "idProvincia": 10,
+    "idComuna": 8,
+    "nombre": "Maullín",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Maull%C3%ADn.svg"
+  },
+  {
+    "cut": "10109",
+    "idRegion": 10,
+    "idProvincia": 10,
+    "idComuna": 9,
+    "nombre": "Puerto Varas",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Puerto_Varas.svg"
+  },
+  {
+    "cut": "10201",
+    "idRegion": 10,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Castro",
+    "provincia": "Chiloé",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Coat_of_Arms_of_Castro_(Chile).svg"
+  },
+  {
+    "cut": "10202",
+    "idRegion": 10,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "Ancud",
+    "provincia": "Chiloé",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Ancud.png"
+  },
+  {
+    "cut": "10203",
+    "idRegion": 10,
+    "idProvincia": 20,
+    "idComuna": 3,
+    "nombre": "Chonchi",
+    "provincia": "Chiloé",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "10204",
+    "idRegion": 10,
+    "idProvincia": 20,
+    "idComuna": 4,
+    "nombre": "Curaco de Vélez",
+    "provincia": "Chiloé",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "10205",
+    "idRegion": 10,
+    "idProvincia": 20,
+    "idComuna": 5,
+    "nombre": "Dalcahue",
+    "provincia": "Chiloé",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Dalcahue.png"
+  },
+  {
+    "cut": "10206",
+    "idRegion": 10,
+    "idProvincia": 20,
+    "idComuna": 6,
+    "nombre": "Puqueldón",
+    "provincia": "Chiloé",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Puqueld%C3%B3n.svg"
+  },
+  {
+    "cut": "10207",
+    "idRegion": 10,
+    "idProvincia": 20,
+    "idComuna": 7,
+    "nombre": "Queilén",
+    "provincia": "Chiloé",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudoqueilen.jpg"
+  },
+  {
+    "cut": "10208",
+    "idRegion": 10,
+    "idProvincia": 20,
+    "idComuna": 8,
+    "nombre": "Quellón",
+    "provincia": "Chiloé",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Quell%C3%B3n.png"
+  },
+  {
+    "cut": "10209",
+    "idRegion": 10,
+    "idProvincia": 20,
+    "idComuna": 9,
+    "nombre": "Quemchi",
+    "provincia": "Chiloé",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Quemchi.png"
+  },
+  {
+    "cut": "10210",
+    "idRegion": 10,
+    "idProvincia": 21,
+    "idComuna": 0,
+    "nombre": "Quinchao",
+    "provincia": "Chiloé",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Quinchao.png"
+  },
+  {
+    "cut": "10301",
+    "idRegion": 10,
+    "idProvincia": 30,
+    "idComuna": 1,
+    "nombre": "Osorno",
+    "provincia": "Osorno",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Osorno.svg"
+  },
+  {
+    "cut": "10302",
+    "idRegion": 10,
+    "idProvincia": 30,
+    "idComuna": 2,
+    "nombre": "Puerto Octay",
+    "provincia": "Osorno",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Puerto_Octay.svg"
+  },
+  {
+    "cut": "10303",
+    "idRegion": 10,
+    "idProvincia": 30,
+    "idComuna": 3,
+    "nombre": "Purranque",
+    "provincia": "Osorno",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "10304",
+    "idRegion": 10,
+    "idProvincia": 30,
+    "idComuna": 4,
+    "nombre": "Puyehue",
+    "provincia": "Osorno",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "10305",
+    "idRegion": 10,
+    "idProvincia": 30,
+    "idComuna": 5,
+    "nombre": "Río Negro",
+    "provincia": "Osorno",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_R%C3%ADo_Negro.svg"
+  },
+  {
+    "cut": "10306",
+    "idRegion": 10,
+    "idProvincia": 30,
+    "idComuna": 6,
+    "nombre": "San Juan de la Costa",
+    "provincia": "Osorno",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "10307",
+    "idRegion": 10,
+    "idProvincia": 30,
+    "idComuna": 7,
+    "nombre": "San Pablo",
+    "provincia": "Osorno",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "10401",
+    "idRegion": 10,
+    "idProvincia": 40,
+    "idComuna": 1,
+    "nombre": "Chaitén",
+    "provincia": "Palena",
+    "region": "Los Lagos",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Chait%C3%A9n.svg"
+  },
+  {
+    "cut": "10402",
+    "idRegion": 10,
+    "idProvincia": 40,
+    "idComuna": 2,
+    "nombre": "Futaleufú",
+    "provincia": "Palena",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "10403",
+    "idRegion": 10,
+    "idProvincia": 40,
+    "idComuna": 3,
+    "nombre": "Hualaihué",
+    "provincia": "Palena",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "10404",
+    "idRegion": 10,
+    "idProvincia": 40,
+    "idComuna": 4,
+    "nombre": "Palena",
+    "provincia": "Palena",
+    "region": "Los Lagos",
+    "escudo": null
+  },
+  {
+    "cut": "11101",
+    "idRegion": 11,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Coyhaique",
+    "provincia": "Coyhaique",
+    "region": "Aysén del Gral. C. Ibáñez del Campo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Coihaique.svg"
+  },
+  {
+    "cut": "11102",
+    "idRegion": 11,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Lago Verde",
+    "provincia": "Coyhaique",
+    "region": "Aysén del Gral. C. Ibáñez del Campo",
+    "escudo": null
+  },
+  {
+    "cut": "11201",
+    "idRegion": 11,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Aysén",
+    "provincia": "Aysén",
+    "region": "Aysén del Gral. C. Ibáñez del Campo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Logotipo-Municipalidad-de-Aysen.svg"
+  },
+  {
+    "cut": "11202",
+    "idRegion": 11,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "Cisnes",
+    "provincia": "Aysén",
+    "region": "Aysén del Gral. C. Ibáñez del Campo",
+    "escudo": null
+  },
+  {
+    "cut": "11203",
+    "idRegion": 11,
+    "idProvincia": 20,
+    "idComuna": 3,
+    "nombre": "Guaitecas",
+    "provincia": "Aysén",
+    "region": "Aysén del Gral. C. Ibáñez del Campo",
+    "escudo": null
+  },
+  {
+    "cut": "11301",
+    "idRegion": 11,
+    "idProvincia": 30,
+    "idComuna": 1,
+    "nombre": "Cochrane",
+    "provincia": "Capitán Prat",
+    "region": "Aysén del Gral. C. Ibáñez del Campo",
+    "escudo": null
+  },
+  {
+    "cut": "11302",
+    "idRegion": 11,
+    "idProvincia": 30,
+    "idComuna": 2,
+    "nombre": "O'Higgins",
+    "provincia": "Capitán Prat",
+    "region": "Aysén del Gral. C. Ibáñez del Campo",
+    "escudo": null
+  },
+  {
+    "cut": "11303",
+    "idRegion": 11,
+    "idProvincia": 30,
+    "idComuna": 3,
+    "nombre": "Tortel",
+    "provincia": "Capitán Prat",
+    "region": "Aysén del Gral. C. Ibáñez del Campo",
+    "escudo": null
+  },
+  {
+    "cut": "11401",
+    "idRegion": 11,
+    "idProvincia": 40,
+    "idComuna": 1,
+    "nombre": "Chile Chico",
+    "provincia": "General Carrera",
+    "region": "Aysén del Gral. C. Ibáñez del Campo",
+    "escudo": null
+  },
+  {
+    "cut": "11402",
+    "idRegion": 11,
+    "idProvincia": 40,
+    "idComuna": 2,
+    "nombre": "Río Ibáñez",
+    "provincia": "General Carrera",
+    "region": "Aysén del Gral. C. Ibáñez del Campo",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Rio_Ib%C3%A1%C3%B1ez.svg"
+  },
+  {
+    "cut": "12101",
+    "idRegion": 12,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Punta Arenas",
+    "provincia": "Magallanes",
+    "region": "Magallanes y Antártica Chilena",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Punta_Arenas.svg"
+  },
+  {
+    "cut": "12102",
+    "idRegion": 12,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Laguna Blanca",
+    "provincia": "Magallanes",
+    "region": "Magallanes y Antártica Chilena",
+    "escudo": null
+  },
+  {
+    "cut": "12103",
+    "idRegion": 12,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Río Verde",
+    "provincia": "Magallanes",
+    "region": "Magallanes y Antártica Chilena",
+    "escudo": null
+  },
+  {
+    "cut": "12104",
+    "idRegion": 12,
+    "idProvincia": 10,
+    "idComuna": 4,
+    "nombre": "San Gregorio",
+    "provincia": "Magallanes",
+    "region": "Magallanes y Antártica Chilena",
+    "escudo": null
+  },
+  {
+    "cut": "12201",
+    "idRegion": 12,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Cabo de Hornos",
+    "provincia": "Antártica Chilena",
+    "region": "Magallanes y Antártica Chilena",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Cabo_de_Hornos.svg"
+  },
+  {
+    "cut": "12202",
+    "idRegion": 12,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "Antártica",
+    "provincia": "Antártica Chilena",
+    "region": "Magallanes y Antártica Chilena",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_la_comuna_de_Ant%C3%A1rtica.svg"
+  },
+  {
+    "cut": "12301",
+    "idRegion": 12,
+    "idProvincia": 30,
+    "idComuna": 1,
+    "nombre": "Porvenir",
+    "provincia": "Tierra del Fuego",
+    "region": "Magallanes y Antártica Chilena",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Porvenir.svg"
+  },
+  {
+    "cut": "12302",
+    "idRegion": 12,
+    "idProvincia": 30,
+    "idComuna": 2,
+    "nombre": "Primavera",
+    "provincia": "Tierra del Fuego",
+    "region": "Magallanes y Antártica Chilena",
+    "escudo": null
+  },
+  {
+    "cut": "12303",
+    "idRegion": 12,
+    "idProvincia": 30,
+    "idComuna": 3,
+    "nombre": "Timaukel",
+    "provincia": "Tierra del Fuego",
+    "region": "Magallanes y Antártica Chilena",
+    "escudo": null
+  },
+  {
+    "cut": "12401",
+    "idRegion": 12,
+    "idProvincia": 40,
+    "idComuna": 1,
+    "nombre": "Natales",
+    "provincia": "Última Esperanza",
+    "region": "Magallanes y Antártica Chilena",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Natales.svg"
+  },
+  {
+    "cut": "12402",
+    "idRegion": 12,
+    "idProvincia": 40,
+    "idComuna": 2,
+    "nombre": "Torres del Paine",
+    "provincia": "Última Esperanza",
+    "region": "Magallanes y Antártica Chilena",
+    "escudo": null
+  },
+  {
+    "cut": "13101",
+    "idRegion": 13,
+    "idProvincia": 10,
+    "idComuna": 1,
+    "nombre": "Santiago",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Santiago_(Chile).svg"
+  },
+  {
+    "cut": "13102",
+    "idRegion": 13,
+    "idProvincia": 10,
+    "idComuna": 2,
+    "nombre": "Cerrillos",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Cerrillos.svg"
+  },
+  {
+    "cut": "13103",
+    "idRegion": 13,
+    "idProvincia": 10,
+    "idComuna": 3,
+    "nombre": "Cerro Navia",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Cerro_Navia.svg"
+  },
+  {
+    "cut": "13104",
+    "idRegion": 13,
+    "idProvincia": 10,
+    "idComuna": 4,
+    "nombre": "Conchalí",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Conchal%C3%AD.svg"
+  },
+  {
+    "cut": "13105",
+    "idRegion": 13,
+    "idProvincia": 10,
+    "idComuna": 5,
+    "nombre": "El Bosque",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": null
+  },
+  {
+    "cut": "13106",
+    "idRegion": 13,
+    "idProvincia": 10,
+    "idComuna": 6,
+    "nombre": "Estación Central",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Estaci%C3%B3n_Central.svg"
+  },
+  {
+    "cut": "13107",
+    "idRegion": 13,
+    "idProvincia": 10,
+    "idComuna": 7,
+    "nombre": "Huechuraba",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Huechuraba.svg"
+  },
+  {
+    "cut": "13108",
+    "idRegion": 13,
+    "idProvincia": 10,
+    "idComuna": 8,
+    "nombre": "Independencia",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Independencia,_Chile.svg"
+  },
+  {
+    "cut": "13109",
+    "idRegion": 13,
+    "idProvincia": 10,
+    "idComuna": 9,
+    "nombre": "La Cisterna",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_La_Cisterna.svg"
+  },
+  {
+    "cut": "13110",
+    "idRegion": 13,
+    "idProvincia": 11,
+    "idComuna": 0,
+    "nombre": "La Florida",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_La_Florida_(Chile).svg"
+  },
+  {
+    "cut": "13111",
+    "idRegion": 13,
+    "idProvincia": 11,
+    "idComuna": 1,
+    "nombre": "La Granja",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_La_Granja_(Chile).svg"
+  },
+  {
+    "cut": "13112",
+    "idRegion": 13,
+    "idProvincia": 11,
+    "idComuna": 2,
+    "nombre": "La Pintana",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_La_Pintana.svg"
+  },
+  {
+    "cut": "13113",
+    "idRegion": 13,
+    "idProvincia": 11,
+    "idComuna": 3,
+    "nombre": "La Reina",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_La_Reina.svg"
+  },
+  {
+    "cut": "13114",
+    "idRegion": 13,
+    "idProvincia": 11,
+    "idComuna": 4,
+    "nombre": "Las Condes",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Las_Condes.svg"
+  },
+  {
+    "cut": "13115",
+    "idRegion": 13,
+    "idProvincia": 11,
+    "idComuna": 5,
+    "nombre": "Lo Barnechea",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": null
+  },
+  {
+    "cut": "13116",
+    "idRegion": 13,
+    "idProvincia": 11,
+    "idComuna": 6,
+    "nombre": "Lo Espejo",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": null
+  },
+  {
+    "cut": "13117",
+    "idRegion": 13,
+    "idProvincia": 11,
+    "idComuna": 7,
+    "nombre": "Lo Prado",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Lo_Prado.svg"
+  },
+  {
+    "cut": "13118",
+    "idRegion": 13,
+    "idProvincia": 11,
+    "idComuna": 8,
+    "nombre": "Macul",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Macul.svg"
+  },
+  {
+    "cut": "13119",
+    "idRegion": 13,
+    "idProvincia": 11,
+    "idComuna": 9,
+    "nombre": "Maipú",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Maip%C3%BA_(Chile).svg"
+  },
+  {
+    "cut": "13120",
+    "idRegion": 13,
+    "idProvincia": 12,
+    "idComuna": 0,
+    "nombre": "Ñuñoa",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_%C3%91u%C3%B1oa.svg"
+  },
+  {
+    "cut": "13121",
+    "idRegion": 13,
+    "idProvincia": 12,
+    "idComuna": 1,
+    "nombre": "Pedro Aguirre Cerda",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Pedro_Aguirre_Cerda.svg"
+  },
+  {
+    "cut": "13122",
+    "idRegion": 13,
+    "idProvincia": 12,
+    "idComuna": 2,
+    "nombre": "Peñalolén",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Pe%C3%B1alol%C3%A9n.svg"
+  },
+  {
+    "cut": "13123",
+    "idRegion": 13,
+    "idProvincia": 12,
+    "idComuna": 3,
+    "nombre": "Providencia",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Providencia_(Chile).svg"
+  },
+  {
+    "cut": "13124",
+    "idRegion": 13,
+    "idProvincia": 12,
+    "idComuna": 4,
+    "nombre": "Pudahuel",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Pudahuel.svg"
+  },
+  {
+    "cut": "13125",
+    "idRegion": 13,
+    "idProvincia": 12,
+    "idComuna": 5,
+    "nombre": "Quilicura",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Quilicura.svg"
+  },
+  {
+    "cut": "13126",
+    "idRegion": 13,
+    "idProvincia": 12,
+    "idComuna": 6,
+    "nombre": "Quinta Normal",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Quinta_Normal.svg"
+  },
+  {
+    "cut": "13127",
+    "idRegion": 13,
+    "idProvincia": 12,
+    "idComuna": 7,
+    "nombre": "Recoleta",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Recoleta_(Chile).svg"
+  },
+  {
+    "cut": "13128",
+    "idRegion": 13,
+    "idProvincia": 12,
+    "idComuna": 8,
+    "nombre": "Renca",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Renca.svg"
+  },
+  {
+    "cut": "13129",
+    "idRegion": 13,
+    "idProvincia": 12,
+    "idComuna": 9,
+    "nombre": "San Joaquín",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Joaqu%C3%ADn_(Chile).svg"
+  },
+  {
+    "cut": "13130",
+    "idRegion": 13,
+    "idProvincia": 13,
+    "idComuna": 0,
+    "nombre": "San Miguel",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Miguel_(Chile).svg"
+  },
+  {
+    "cut": "13131",
+    "idRegion": 13,
+    "idProvincia": 13,
+    "idComuna": 1,
+    "nombre": "San Ramón",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Ram%C3%B3n.svg"
+  },
+  {
+    "cut": "13132",
+    "idRegion": 13,
+    "idProvincia": 13,
+    "idComuna": 2,
+    "nombre": "Vitacura",
+    "provincia": "Santiago",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Emblema_Vitacura.svg"
+  },
+  {
+    "cut": "13201",
+    "idRegion": 13,
+    "idProvincia": 20,
+    "idComuna": 1,
+    "nombre": "Puente Alto",
+    "provincia": "Cordillera",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Puente_Alto.svg"
+  },
+  {
+    "cut": "13202",
+    "idRegion": 13,
+    "idProvincia": 20,
+    "idComuna": 2,
+    "nombre": "Pirque",
+    "provincia": "Cordillera",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Pirque.svg"
+  },
+  {
+    "cut": "13203",
+    "idRegion": 13,
+    "idProvincia": 20,
+    "idComuna": 3,
+    "nombre": "San José de Maipo",
+    "provincia": "Cordillera",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Jos%C3%A9_de_Maipo.svg"
+  },
+  {
+    "cut": "13301",
+    "idRegion": 13,
+    "idProvincia": 30,
+    "idComuna": 1,
+    "nombre": "Colina",
+    "provincia": "Chacabuco",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Colina_(Chile).svg"
+  },
+  {
+    "cut": "13302",
+    "idRegion": 13,
+    "idProvincia": 30,
+    "idComuna": 2,
+    "nombre": "Lampa",
+    "provincia": "Chacabuco",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Lampa.svg"
+  },
+  {
+    "cut": "13303",
+    "idRegion": 13,
+    "idProvincia": 30,
+    "idComuna": 3,
+    "nombre": "Til Til",
+    "provincia": "Chacabuco",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Tiltil.svg"
+  },
+  {
+    "cut": "13401",
+    "idRegion": 13,
+    "idProvincia": 40,
+    "idComuna": 1,
+    "nombre": "San Bernardo",
+    "provincia": "Maipo",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Bernardo_(Chile).svg"
+  },
+  {
+    "cut": "13402",
+    "idRegion": 13,
+    "idProvincia": 40,
+    "idComuna": 2,
+    "nombre": "Buin",
+    "provincia": "Maipo",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Buin.svg"
+  },
+  {
+    "cut": "13403",
+    "idRegion": 13,
+    "idProvincia": 40,
+    "idComuna": 3,
+    "nombre": "Calera de Tango",
+    "provincia": "Maipo",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Calera_de_Tango.svg"
+  },
+  {
+    "cut": "13404",
+    "idRegion": 13,
+    "idProvincia": 40,
+    "idComuna": 4,
+    "nombre": "Paine",
+    "provincia": "Maipo",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Paine.svg"
+  },
+  {
+    "cut": "13501",
+    "idRegion": 13,
+    "idProvincia": 50,
+    "idComuna": 1,
+    "nombre": "Melipilla",
+    "provincia": "Melipilla",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Melipilla.svg"
+  },
+  {
+    "cut": "13502",
+    "idRegion": 13,
+    "idProvincia": 50,
+    "idComuna": 2,
+    "nombre": "Alhué",
+    "provincia": "Melipilla",
+    "region": "Metropolitana de Santiago",
+    "escudo": null
+  },
+  {
+    "cut": "13503",
+    "idRegion": 13,
+    "idProvincia": 50,
+    "idComuna": 3,
+    "nombre": "Curacaví",
+    "provincia": "Melipilla",
+    "region": "Metropolitana de Santiago",
+    "escudo": null
+  },
+  {
+    "cut": "13504",
+    "idRegion": 13,
+    "idProvincia": 50,
+    "idComuna": 4,
+    "nombre": "María Pinto",
+    "provincia": "Melipilla",
+    "region": "Metropolitana de Santiago",
+    "escudo": null
+  },
+  {
+    "cut": "13505",
+    "idRegion": 13,
+    "idProvincia": 50,
+    "idComuna": 5,
+    "nombre": "San Pedro",
+    "provincia": "Melipilla",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_San_Pedro_(Chile).svg"
+  },
+  {
+    "cut": "13601",
+    "idRegion": 13,
+    "idProvincia": 60,
+    "idComuna": 1,
+    "nombre": "Talagante",
+    "provincia": "Talagante",
+    "region": "Metropolitana de Santiago",
+    "escudo": null
+  },
+  {
+    "cut": "13602",
+    "idRegion": 13,
+    "idProvincia": 60,
+    "idComuna": 2,
+    "nombre": "El Monte",
+    "provincia": "Talagante",
+    "region": "Metropolitana de Santiago",
+    "escudo": null
+  },
+  {
+    "cut": "13603",
+    "idRegion": 13,
+    "idProvincia": 60,
+    "idComuna": 3,
+    "nombre": "Isla de Maipo",
+    "provincia": "Talagante",
+    "region": "Metropolitana de Santiago",
+    "escudo": null
+  },
+  {
+    "cut": "13604",
+    "idRegion": 13,
+    "idProvincia": 60,
+    "idComuna": 4,
+    "nombre": "Padre Hurtado",
+    "provincia": "Talagante",
+    "region": "Metropolitana de Santiago",
+    "escudo": null
+  },
+  {
+    "cut": "13605",
+    "idRegion": 13,
+    "idProvincia": 60,
+    "idComuna": 5,
+    "nombre": "Peñaflor",
+    "provincia": "Talagante",
+    "region": "Metropolitana de Santiago",
+    "escudo": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Pe%C3%B1aflor_(Chile).svg"
+  }
+]

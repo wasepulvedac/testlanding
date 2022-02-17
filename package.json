@@ -1,0 +1,17 @@
+{
+  "name": "pruebamunicipal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^19.0.0",
+    "node-fetch": "^3.2.0"
+  },
+  "type": "module"
+}
